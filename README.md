@@ -1,5 +1,5 @@
-- 👧 Hi,I’m@Aaron-Ann我超级无聊和无趣
-- 👀 I’m interested in  看小说 
+- 👧 Hi,I’m@Aaron-Ann 
+- 👀 I’m interested in 看小说 
 - 🦦 I’m currently learning JAVA-学了60年啦（joking）
 - 🐰 就读于 嘉里墩大学
 - ✉️ my email-🐧-@qq
